@@ -1,19 +1,118 @@
 [{
-        "satuan": "LUSIN"
+        "nama_satuan": "UNIT"
     },
     {
-        "satuan": "PCS"
+        "nama_satuan": "BUAH"
     },
     {
-        "satuan": "PACK"
+        "nama_satuan": "PASANG"
     },
     {
-        "satuan": "KG"
+        "nama_satuan": "LEMBAR"
     },
     {
-        "satuan": "KM"
+        "nama_satuan": "KEPING"
     },
     {
-        "satuan": "RIM"
+        "nama_satuan": "BATANG"
+    },
+    {
+        "nama_satuan": "BUNGKUS"
+    },
+    {
+        "nama_satuan": "POTONG"
+    },
+    {
+        "nama_satuan": "TABLET"
+    },
+    {
+        "nama_satuan": "EKOR"
+    },
+    {
+        "nama_satuan": "RIM"
+    },
+    {
+        "nama_satuan": "KARAT"
+    },
+    {
+        "nama_satuan": "BOTOL"
+    },
+    {
+        "nama_satuan": "BUTIR"
+    },
+    {
+        "nama_satuan": "ROLL"
+    },
+    {
+        "nama_satuan": "DUS"
+    },
+    {
+        "nama_satuan": "KARUNG"
+    },
+    {
+        "nama_satuan": "KOLI"
+    },
+    {
+        "nama_satuan": "SAK"
+    },
+    {
+        "nama_satuan": "BAL"
+    },
+    {
+        "nama_satuan": "KALENG"
+    },
+    {
+        "nama_satuan": "SET"
+    },
+    {
+        "nama_satuan": "SLOP"
+    },
+    {
+        "nama_satuan": "GULUNG"
+    },
+    {
+        "nama_satuan": "TON"
+    },
+    {
+        "nama_satuan": "KILOGRAM"
+    },
+    {
+        "nama_satuan": "GRAM"
+    },
+    {
+        "nama_satuan": "MILIGRAM"
+    },
+    {
+        "nama_satuan": "METER"
+    },
+    {
+        "nama_satuan": "M2"
+    },
+    {
+        "nama_satuan": "M3"
+    },
+    {
+        "nama_satuan": "INCHI"
+    },
+    {
+        "nama_satuan": "CC"
+    },
+    {
+        "nama_satuan": "LITER"
+    },
+    {
+        "nama_satuan": "LUSIN"
+    },
+    {
+        "nama_satuan": "PCS"
+    },
+    {
+        "nama_satuan": "PACK"
+    },
+    {
+        "nama_satuan": "BOX"
+    },
+    {
+        "nama_satuan": "GELAS"
     }
 ]
