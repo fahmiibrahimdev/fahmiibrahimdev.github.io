@@ -1,43 +1,106 @@
 [{
-        "nama_merek": ""
+        "nama_merek": "COCA-COLA"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "NESCAFE"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "INDOCAFE"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "GOOD DAY"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "SAMSUNG"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "XIAOMI"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "OPPO"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "TOYOTA"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "FORTUNER"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "AVANZA"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "SUZUKI"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "CANON"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "PHILIPS"
     },
     {
-        "nama_merek": ""
+        "nama_merek": "LG"
+    },
+    {
+        "nama_merek": "NIKE"
+    },
+    {
+        "nama_merek": "NIVEA"
+    },
+    {
+        "nama_merek": "EPSON"
+    },
+    {
+        "nama_merek": "ESP8266"
+    },
+    {
+        "nama_merek": "ARDUINO"
+    },
+    {
+        "nama_merek": "SARI ROTI"
+    },
+    {
+        "nama_merek": "FANTA"
+    },
+    {
+        "nama_merek": "SPRITE"
+    },
+    {
+        "nama_merek": "APPLE"
+    },
+    {
+        "nama_merek": "VIVO"
+    },
+    {
+        "nama_merek": "PANASONIC"
+    },
+    {
+        "nama_merek": "JOYKO"
+    },
+    {
+        "nama_merek": "DELL"
+    },
+    {
+        "nama_merek": "ACER"
+    },
+    {
+        "nama_merek": "LENOVO"
+    },
+    {
+        "nama_merek": "MICROSOFT"
+    },
+    {
+        "nama_merek": "HUAWEI"
+    },
+    {
+        "nama_merek": "SHARP"
+    },
+    {
+        "nama_merek": "FABER-CASTELL"
+    },
+    {
+        "nama_merek": "PAPERMATE"
+    },
+    {
+        "nama_merek": "KAPAL API"
     }
 ]
